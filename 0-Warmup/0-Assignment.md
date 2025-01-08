@@ -34,11 +34,14 @@ Please provide answers to these questions using markdown notation and place them
     - [ ] NO - Not Yet
 
 
-3. Please provide a link to the repository you are using for this class.
+3. Please provide a link to the repository you are using for this class. 
+
     https://github.com/abr74/CS283_Winter-2024-25.git
 
 4. Briefly describe what you want to get out of this class.
+
     I would like to get more understanding on processes, network and files.
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+
     N/A
